@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/adhikasp-mcp-linkedin-badge.png)](https://mseep.ai/app/adhikasp-mcp-linkedin)
+
 # MCP LinkedIn
 
 A Model Context Protocol (MCP) server that provides tools to interact with LinkedIn's Feeds and Job API.
